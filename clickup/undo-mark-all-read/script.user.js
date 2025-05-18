@@ -21,4 +21,4 @@
     const btn = bundle.querySelector(UNREAD_SELECTOR);
     btn?.click();
   });
-})();
+})(); 
