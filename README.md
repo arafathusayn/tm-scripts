@@ -37,7 +37,7 @@ To use these scripts, you'll need:
     If you haven't already, install a userscript manager extension suitable for your browser from the links above.
 
 2.  **Install the Desired Script(s)**:
-    *   Navigate to the specific script file you wish to install within this repository (e.g., `clickup/mark-all-read/script.js`).
+    *   Navigate to the specific script file you wish to install within this repository (e.g., `clickup/mark-all-read/script.user.js`).
     *   Click the **"Raw"** button to view the script's source code.
     *   Your userscript manager should automatically detect the `.user.js` file and prompt you for installation. Confirm to add the script.
 
