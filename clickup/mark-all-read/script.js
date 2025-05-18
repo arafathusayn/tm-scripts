@@ -9,7 +9,7 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=clickup.com
 // @grant        none
 // @copyright    2025 Arafat Husayn, GNU Affero General Public License v3.0
-// @source       https://github.com/arafathusayn/tm-scripts/blob/main/clickup/mark-all-read/script.js
+// @source       https://raw.githubusercontent.com/arafathusayn/tm-scripts/refs/heads/main/clickup/mark-all-read/script.js
 // ==/UserScript==
 
 (() => {
